@@ -15,13 +15,13 @@ function App() {
                 <section className='section'>
                     <div className='columns'>
                         <div className='column is-4'>
-                            <ProfileCard title="Alexa" handle="@alexa99" image={alexaImage} />
+                            <ProfileCard title="Alexa" handle="@alexa99" image={alexaImage} description="Alexa made by Amazon" />
                         </div>
                         <div className='column is-4'>
-                            <ProfileCard title="Alexa" handle="@alexa99" image={alexaImage} />
+                            <ProfileCard title="Alexa" handle="@alexa99" image={alexaImage} description="Alexa made by Amazon" />
                         </div>
                         <div className='column is-4'>
-                            <ProfileCard title="Alexa" handle="@alexa99" image={alexaImage} />
+                            <ProfileCard title="Alexa" handle="@alexa99" image={alexaImage} description="Alexa made by Amazon" />
                         </div>
                     </div>
                 </section>
